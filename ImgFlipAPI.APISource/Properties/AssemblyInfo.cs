@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ImgFlipAPI.APISource")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Creates memes using ImgFlip")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("George Matthews")]
 [assembly: AssemblyProduct("ImgFlipAPI.APISource")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
