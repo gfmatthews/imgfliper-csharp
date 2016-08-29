@@ -91,7 +91,8 @@ namespace ImgFlipAPI.APISource
         IAmDisappoint = 42752910,
         Trump = 40181531,
         Hillary = 5153844,
-        Ermergerd = 7590469
+        Ermergerd = 7590469,
+        NyanCat = 32104452
     };
 
 
