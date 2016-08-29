@@ -44,7 +44,7 @@ namespace ImgFlipAPITests
         [TestMethod]
         public void MatchingMemeTest()
         {
-            string knownDogeUri = "http://i.imgflip.com/4t0m5.jpg";
+            string knownDogeUri = "https://i.imgflip.com/4t0m5.jpg";
 
             Uri dogeURI = ImgFlipAPISource.Instance.GetMemeBaseImage(PopularMemeTypes.Doge).Result;
             Assert.IsTrue(dogeURI.ToString() == knownDogeUri);
